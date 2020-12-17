@@ -45,10 +45,9 @@ This repository contains Data science projects that I have completed during the 
 * Goal: to create a short-term temperature forecast
 * Time series analysis and plotting
 * Modelling trend and seasonality components
-* Decomposing and recomposing time series data
 * Building a baseline model
 * Exploring Linear Autoregression
-* Applying ARIMA model to predict the daily mean temperature
+* Applying ARIMA model to predict the temperature
 
 ![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/05_temperature_time_series/data/temperature_prediction.png) 
 
