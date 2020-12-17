@@ -42,6 +42,9 @@ This repository contains Data science projects that I have completed during the 
 * Data: [European Climate Assessment Dataset](https://www.ecad.eu/)
 * Goal: to create a short-term temperature forecast
 * Time series analysis and plotting
+* Modelling trend and seasonality components
+* Decomposing and recomposing time series data
+* Building a baseline model
 * Exploring Linear Autoregression
 * Applying ARIMA model to predict the daily mean temperature
-* Drawing maps with folium
+
