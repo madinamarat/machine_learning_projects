@@ -18,6 +18,7 @@ This repository contains Data science projects that I have completed during the 
 ![Alt Text](https://github.com/madinamarat/machine_learning_projects/blob/master/02_titanic/data/age_distribution.png)
 
 ### Rental bikes - Regression models
+* Data: [Bike Sharing Demand - Kaggle](https://www.kaggle.com/c/bike-sharing-demand/data)
 * Exploratory data analysis with Matplotlib and Seaborn, exploring time series data
 * Feature engineering and features selection
 * Training a model Linear Regression, Random Forest Regressor
