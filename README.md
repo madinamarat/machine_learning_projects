@@ -50,5 +50,5 @@ This repository contains Data science projects that I have completed during the 
 * Exploring Linear Autoregression
 * Applying ARIMA model to predict the temperature
 
-![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/05_temperature_time_series/data/temperature_prediction.png) 
+![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/05_temperature_time_series/data/predicted_temperature.png) 
 
