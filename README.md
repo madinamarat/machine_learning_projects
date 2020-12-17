@@ -7,7 +7,7 @@ This repository contains Data science projects that I have completed during the 
 * Goal: creating and animated scatterplot
 * Descriptive statistics, plotting with Matplotlib and Seaborn
 
-![Alt Text](https://github.com/madinamarat/machine_learning_projects/blob/master/01_animated_scatterplot/output.gif)
+![Alt Text](https://github.com/madinamarat/machine_learning_projects/blob/master/01_animated_scatterplot/data/output.gif)
 
 #### Titanic - Classification Project
 * Data: [Titanic-Kaggle dataset](https://www.kaggle.com/c/titanic/data)
