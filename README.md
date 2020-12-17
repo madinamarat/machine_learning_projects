@@ -19,11 +19,12 @@ This repository contains Data science projects that I have completed during the 
 
 ### Rental bikes - Regression models
 * Data: [Bike Sharing Demand - Kaggle](https://www.kaggle.com/c/bike-sharing-demand/data)
+* Goal: to predict the demand of rental bikes by using a regression model
 * Exploratory data analysis with Matplotlib and Seaborn, exploring time series data
 * Feature engineering and features selection
 * Training a model Linear Regression, Random Forest Regressor
 * Cross-validation
 * Optimizing the model with grid search
-![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/correlation_matrix.png)
+![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/rent_by_hours.png)
 
 
