@@ -24,6 +24,6 @@ This repository contains Data science projects that I have completed during the 
 * Training a model Linear Regression, Random Forest Regressor
 * Cross-validation
 * Optimizing the model with grid search
-![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/rent_by_hours.png)
+![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/correlation_matrix.png)
 
 
