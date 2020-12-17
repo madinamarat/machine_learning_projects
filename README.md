@@ -40,6 +40,8 @@ This repository contains Data science projects that I have completed during the 
 * Converting text to numbers by applying TfidfVectorizer and Bag Of Words method
 * Building and training Naive Bayes, Random Forest, Logstic Regression, Decision Tree classifiers
 
+![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/04_lyrics_scraping/data/cloud.png)
+
 #### Temperature prediction - Time Series Analysis
 * Data: [European Climate Assessment Dataset](https://www.ecad.eu/)
 * Goal: to create a short-term temperature forecast
