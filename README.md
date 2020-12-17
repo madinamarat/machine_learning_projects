@@ -28,4 +28,20 @@ This repository contains Data science projects that I have completed during the 
 
 ![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/rent_by_hours.png)
 
+### Lyrics - Text Classification
+* Goal: to build a text classification model to predict the artist from a piece of text
+* Scraping data from the [Lyrics website](https://www.lyrics.com/)
+* Downloading HTML pages
+* Getting a list of song urls with Regex
+* HTML parsing with BeautifulSoup 
+* NLP: tokenizing and lemmatizing by using Spacy
+* Converting text to numbers by applying TfidfVectorizer and Bag Of Words method
+* Building and training Naive Bayes, Random Forest, Logstic Regression, Decision Tree classifiers
 
+### Temperature prediction - Time Series Analysis
+* Data: [European Climate Assessment Dataset](https://www.ecad.eu/)
+* Goal: to create a short-term temperature forecast
+* Time series analysis and plotting
+* Exploring Linear Autoregression
+* Applying ARIMA model to predict the daily mean temperature
+* Drawing maps with folium
