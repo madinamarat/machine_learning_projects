@@ -28,7 +28,7 @@ This repository contains Data science projects that I have completed during the 
 * Cross-validation
 * Optimizing the model with grid search
 
-![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/rent_by_hours.png)
+![Alt text](https://github.com/madinamarat/machine_learning_projects/blob/master/03_bikes/data/bikes_by_hours.png)
 
 #### Lyrics - Text Classification
 * Goal: to build a text classification model to predict the artist from a piece of text
