@@ -4,7 +4,7 @@ This repository contains Data science projects that I have completed during the 
 
 #### Gapminder - Visual Data Analysis 
 * Data: [Gapminder](https://www.gapminder.org/data/)
-* Goal: creating and animated scatterplot
+* Goal: creating an animated scatterplot
 * Descriptive statistics, plotting with Matplotlib and Seaborn
 
 ![Alt Text](https://github.com/madinamarat/machine_learning_projects/blob/master/01_animated_scatterplot/data/output.gif)
